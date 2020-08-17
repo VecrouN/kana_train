@@ -1,0 +1,11 @@
+C:\Users\mi\source\repos\kana_train\bin\Release\kana_train.exe.config
+C:\Users\mi\source\repos\kana_train\bin\Release\kana_train.exe
+C:\Users\mi\source\repos\kana_train\bin\Release\kana_train.pdb
+C:\Users\mi\source\repos\kana_train\obj\Release\kana_train.kana_train_form.resources
+C:\Users\mi\source\repos\kana_train\obj\Release\kana_train.main_menu.resources
+C:\Users\mi\source\repos\kana_train\obj\Release\kana_train.Properties.Resources.resources
+C:\Users\mi\source\repos\kana_train\obj\Release\kana train project.csproj.GenerateResource.cache
+C:\Users\mi\source\repos\kana_train\obj\Release\kana train project.csproj.CoreCompileInputs.cache
+C:\Users\mi\source\repos\kana_train\obj\Release\kana_train.exe
+C:\Users\mi\source\repos\kana_train\obj\Release\kana_train.pdb
+C:\Users\mi\source\repos\kana_train\obj\Release\kana train project.csprojAssemblyReference.cache

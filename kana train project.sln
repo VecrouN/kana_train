@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kana train project", "kana train project.csproj", "{99C9D6FC-42FF-4373-B3C6-2AFB02388688}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "kana train", "..\setup\setup.vdproj", "{18E92831-F0D0-4D15-B752-937D10D40160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C9D6FC-42FF-4373-B3C6-2AFB02388688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C9D6FC-42FF-4373-B3C6-2AFB02388688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C9D6FC-42FF-4373-B3C6-2AFB02388688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C9D6FC-42FF-4373-B3C6-2AFB02388688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E92831-F0D0-4D15-B752-937D10D40160}.Debug|Any CPU.ActiveCfg = Debug
+		{18E92831-F0D0-4D15-B752-937D10D40160}.Release|Any CPU.ActiveCfg = Release
+		{18E92831-F0D0-4D15-B752-937D10D40160}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD19ECC-50F3-40C4-ACE1-A3F46D8450CA}
+	EndGlobalSection
+EndGlobal
